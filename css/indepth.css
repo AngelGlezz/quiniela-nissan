@@ -1,7 +1,7 @@
 @font-face
 {
-   font-family: "Nissan-Brand-Regular";
-   src: url(../fonts/Nissan-Brand-Regular.otf) format("opentype");
+   font-family: "Nissan-Brand-Bold";
+   src: url(../fonts/Nissan-Brand-Bold.otf) format("opentype");
 }
 
 .pages_content {
@@ -84,7 +84,7 @@
 }
 
 .content-name {
-	font-family: "Nissan-Brand-Regular";
+	font-family: "Nissan-Brand-Bold";
 	font-size: 26px;
 	/*color: #55789f;*/
 	text-align: center;
@@ -102,7 +102,7 @@
 #txt-fin {
 	width: 60%;
 	margin: auto;
-	font-family: "Nissan-Brand-Regular";
+	font-family: "Nissan-Brand-Bold";
 	font-size: 22px;
 	color: #fff;
 	letter-spacing: 3px;
