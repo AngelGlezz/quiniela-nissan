@@ -158,8 +158,11 @@
 
 @media(max-width: 570px) {
 	.pages_content {
-		background-image: none;
-		background-color: #1b2437;
+		background-image: url(../images/fondo_movil.jpg);
+		background-size: 100%;
+		background-repeat: round;
+		background-color: #1c2439;
+		background-position: top;
 	}
 
 	.indepth_content {
